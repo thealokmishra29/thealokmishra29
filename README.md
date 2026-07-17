@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 📝 I post something about Tech on [twitter.com\thealokmishra29](twitter.com\thealokmishra29)
+- 📝 I solve coding problems on [leetcode.com\thealokmishra29](leetcode
+- .com\thealokmishra29)
 
 - 💬 Ask me about **React.js**
 
