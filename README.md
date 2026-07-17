@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 📝 I solve coding problems on (https://leetcode.com/u/thealokmishra29/)
+- 📝 I solve coding problems on Leetcode **https://leetcode.com/u/thealokmishra29/**
 - 💬 Ask me about **React.js**
 
 - 📫 How to reach me **thealokmishra29@gmail.com**
